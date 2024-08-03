@@ -1,0 +1,10 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 40px 0;
+}
+
+.description h1 {
+  text-align: center;
+}
